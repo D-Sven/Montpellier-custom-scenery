@@ -1,0 +1,32 @@
+# details_e000n40_e003n43_3006810
+# do not edit below this line
+# Last Written Sun Jul  4 18:55:43 2021
+#
+OBJECT_STATIC e000n40_e003n43_3006810d10.ac 3.57411 43.39300 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006810d11.ac 3.57411 43.42900 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006810d21.ac 3.62352 43.42900 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006810d22.ac 3.62352 43.46501 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006810d30.ac 3.67292 43.39300 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006810d31.ac 3.67292 43.42900 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006810d32.ac 3.67292 43.46501 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006810d40.ac 3.72233 43.39300 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006810d41.ac 3.72233 43.42900 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 3.60577 43.42218 1.48 101.951
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 3.60569 43.42187 0.70 99.7541
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 3.60674 43.42379 2.19 135.127
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 3.60578 43.42247 2.09 101.196
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 3.62424 43.43540 -0.61 236.914
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 3.62630 43.43777 -1.38 312.943
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 3.55589 43.38150 0.43 -29.8542
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 3.55462 43.38089 -0.49 324.005
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 3.62442 43.43576 -0.54 244.653
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 3.70335 43.42194 -2.28 357.89
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 3.55355 43.38032 -0.96 138.581
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 3.55544 43.38134 0.40 136.83
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 3.55514 43.38112 -0.03 135.029
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 3.55386 43.38050 -0.29 136.591
+OBJECT_SHARED Models/Maritime/Civilian/barge.xml 3.70993 43.40102 0.00 60.2985
+OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml 3.70356 43.40378 0.00 -126.398
+OBJECT_SHARED Models/Maritime/Civilian/LargeFerry.xml 3.70768 43.40046 -0.00 260.277
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac 3.71515 43.40274 0.00 180.128
+# END details_e000n40_e003n43_3006810

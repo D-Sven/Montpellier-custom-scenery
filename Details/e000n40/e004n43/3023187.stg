@@ -1,0 +1,12 @@
+# details_e000n40_e004n43_3023187
+# do not edit below this line
+# Last Written Sun Jul  4 20:22:07 2021
+#
+OBJECT_STATIC e000n40_e004n43_3023187d12.ac 4.82396 43.34001 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 4.82970 43.34371 -0.01 166.66
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 4.82962 43.34366 -0.01 173.354
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 4.82933 43.34360 -0.01 259.144
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 4.82884 43.34350 -0.01 250.86
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 4.82902 43.34338 -0.01 100.758
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 4.82974 43.34194 -0.00 267.225
+# END details_e000n40_e004n43_3023187

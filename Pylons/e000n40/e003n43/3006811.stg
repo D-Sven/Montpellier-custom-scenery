@@ -1,0 +1,17 @@
+# pylons_e000n40_e003n43_3006811
+# do not edit below this line
+# Last Written Sun Jul  4 18:47:37 2021
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 3.75151 43.49658 193.57 362.774
+OBJECT_BUILDING_MESH_DETAILED e000n40_e003n43_3006811c03.ac 3.77470 43.48301 0.00 90
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 3.75478 43.43612 1.75 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 3.75416 43.43579 -71.52 0
+OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac 3.75249 43.43452 -68.80 0
+OBJECT_SHARED Models/Industrial/generic_tank_075m_grey.ac 3.75092 43.43123 -64.33 0
+# END pylons_e000n40_e003n43_3006811
+# pylons_e000n40_e003n43_3006810
+# do not edit below this line
+# Last Written Sun Jul  4 18:55:41 2021
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 3.75151 43.49658 193.57 363.022
+# END pylons_e000n40_e003n43_3006810

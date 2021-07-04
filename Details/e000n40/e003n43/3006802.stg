@@ -1,0 +1,31 @@
+# details_e000n40_e003n43_3006802
+# do not edit below this line
+# Last Written Sun Jul  4 18:32:39 2021
+#
+OBJECT_STATIC e000n40_e003n43_3006802d00.ac 3.52465 43.26800 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006802d01.ac 3.52465 43.30401 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006802d02.ac 3.52465 43.34001 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006802d03.ac 3.52465 43.35801 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006802d11.ac 3.57396 43.30401 0.00 0
+OBJECT_STATIC e000n40_e003n43_3006802d12.ac 3.57396 43.34001 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 3.54032 43.36681 1.98 290.305
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 3.53983 43.36695 1.98 290.356
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 3.54072 43.36855 2.19 236.132
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 3.53380 43.35144 0.49 21.0815
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 3.53408 43.35196 0.49 21.3197
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 3.53426 43.35231 0.49 -38.7084
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 3.54267 43.37076 1.02 299.005
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 3.54214 43.37062 1.38 243.624
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 3.54281 43.37082 0.86 301.242
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 3.54060 43.36737 2.05 296.913
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 3.53995 43.36638 1.67 114.541
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 3.54056 43.36729 2.04 115.333
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 3.53447 43.35156 0.32 30.7622
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 3.54045 43.36808 2.12 290.124
+# END details_e000n40_e003n43_3006802
+# details_e000n40_e003n43_3006801
+# do not edit below this line
+# Last Written Sun Jul  4 18:47:52 2021
+#
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 3.50003 43.28185 2.74 86.1538
+# END details_e000n40_e003n43_3006801

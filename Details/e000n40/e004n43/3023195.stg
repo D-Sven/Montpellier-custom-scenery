@@ -1,0 +1,28 @@
+# details_e000n40_e004n43_3023195
+# do not edit below this line
+# Last Written Sun Jul  4 20:33:51 2021
+#
+OBJECT_STATIC e000n40_e004n43_3023195d01.ac 4.77470 43.42900 0.00 0
+OBJECT_STATIC e000n40_e004n43_3023195d10.ac 4.82411 43.39300 0.00 0
+OBJECT_STATIC e000n40_e004n43_3023195d20.ac 4.87352 43.39300 0.00 0
+OBJECT_STATIC e000n40_e004n43_3023195d21.ac 4.87352 43.42900 0.00 0
+OBJECT_STATIC e000n40_e004n43_3023195d31.ac 4.92292 43.42900 0.00 0
+OBJECT_STATIC e000n40_e004n43_3023195d40.ac 4.97233 43.39300 0.00 0
+OBJECT_STATIC e000n40_e004n43_3023195d41.ac 4.97233 43.42900 0.00 0
+OBJECT_STATIC e000n40_e004n43_3023195d43.ac 4.97233 43.48301 0.00 0
+OBJECT_STATIC e000n40_e004n43_3023195d53.ac 4.99704 43.48301 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 4.88978 43.41875 0.39 296.472
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 4.88954 43.41899 0.39 356.655
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 4.94245 43.42698 0.44 -101.88
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 4.94137 43.42816 1.44 101.793
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 4.89964 43.42721 -0.00 151.196
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 4.83326 43.37601 1.24 172.701
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 4.81026 43.38681 1.11 236.754
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 4.83245 43.37649 1.75 110.367
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 4.80826 43.38727 0.82 237.036
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 4.83367 43.37605 1.28 173.155
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 4.94108 43.42729 0.98 282.87
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 4.94176 43.42792 1.25 69.5902
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 4.98249 43.39766 1.23 100.037
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 4.98236 43.39675 -0.54 328.723
+# END details_e000n40_e004n43_3023195

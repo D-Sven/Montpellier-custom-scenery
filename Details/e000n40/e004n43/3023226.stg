@@ -1,0 +1,10 @@
+# details_e000n40_e004n43_3023226
+# do not edit below this line
+# Last Written Sun Jul  4 20:21:35 2021
+#
+OBJECT_STATIC e000n40_e004n43_3023226d11.ac 4.57473 43.92900 0.00 0
+OBJECT_STATIC e000n40_e004n43_3023226d30.ac 4.67437 43.89300 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 4.65358 43.87647 10.82 142.159
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 4.65603 43.87771 10.83 142.727
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 4.65147 43.87503 10.95 137.444
+# END details_e000n40_e004n43_3023226
